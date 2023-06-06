@@ -1,0 +1,53 @@
+#centralwidget
+{
+    background-color: rgb(43,43,43);
+}
+
+/*widget_top*/
+#widget_top
+{
+    background-color: rgb(33,33,36);
+}
+
+QLabel#label_txt
+{
+	font: 18px '楷体';
+	color:  rgb(255,255,255);
+}
+
+QPushButton#ptn_close:hover
+{
+	background-color: rgb(232,17,35);
+}
+
+QPushButton#ptn_min:hover
+{
+	background-color: rgba(255,255,255,127);
+}
+
+QLabel#label_title
+{
+	image: url(:/images/calabash.png);
+}
+
+
+#widget_curtain
+{
+    background-color: rgba(46,53,63,178);
+}
+
+/*widget_tail*/
+#widget_tail
+{
+    background-color: rgb(46,53,63);
+}
+
+QLabel#label_username
+{
+	font: color(255,255,255);
+}
+QPushButton#ptn_home
+{
+	
+	image: url(:/images/home.png);
+}

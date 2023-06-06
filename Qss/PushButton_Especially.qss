@@ -1,0 +1,145 @@
+PushButton
+{
+    border: none;
+}
+#ptn_introduce
+{
+	font: 14px;
+	color: #FFF;
+	border-radius: 20px;
+	background-color: rgba(50,133,254,210);
+
+}
+#ptn_setting
+{
+	background-color: rgba(64,176,224,180);
+        border-radius: 5px;
+        color: #fff;
+}
+#ptn_owner
+{
+	background-color: rgba(64,176,224,180);
+        border-radius: 5px;
+        color: #fff;
+}
+#ptn_student
+{
+	background-color: rgba(64,176,224,180);
+        border-radius: 5px;
+        color: #fff;
+}
+#ptn_teacher
+{
+	background-color: rgba(64,176,224,180);
+        border-radius: 5px;
+        color: #fff;
+}
+#ptn_signOut
+{
+	background-color: rgba(246,89,89,180);
+        border-radius: 5px;
+        color: #fff;
+}
+
+#ptn_home
+{
+	background-color: transparent;
+	image: url(:/images/home.png);
+}
+
+#ptn_student:disabled
+{
+	background-color:#ecf0f1;
+	border-radius:20px;
+	color:#FFFFFF;    
+}
+#ptn_teacher:disabled
+{
+	background-color:#ecf0f1;
+	border-radius:20px;
+	color:#FFFFFF;    
+}
+#ptn_introduce:hover
+{
+	border: 0px solid;
+	background-color:#2980b9;
+	border-radius:20px;
+	color:#FFFFFF;
+	opacity:0.2;
+}
+#ptn_owner:hover
+{
+	border: 0px solid;
+	background-color:#2980b9;
+	border-radius:20px;
+	color:#FFFFFF;
+	opacity:0.2;
+}
+#ptn_student:hover
+{
+	border: 0px solid;
+	background-color:#2980b9;
+	border-radius:20px;
+	color:#FFFFFF;
+	opacity:0.2;
+}
+#ptn_teacher:hover
+{
+	border: 0px solid;
+	background-color:#2980b9;
+	border-radius:20px;
+	color:#FFFFFF;
+	opacity:0.2;
+}
+#ptn_setting:hover
+{
+	border: 0px solid;
+	background-color:#2980b9;
+	border-radius:20px;
+	color:#FFFFFF;
+	opacity:0.2;
+}
+#ptn_signOut:hover
+{
+	border: 0px solid;
+	background-color:#2980b9;
+	border-radius:20px;
+	color:#FFFFFF;
+	opacity:0.2;
+}
+#ptn_introduce:pressed
+{
+	 background-color:#3498db;
+	border-radius:20px;
+	color:#FFFFFF; 
+}
+#ptn_owner:pressed
+{
+	 background-color:#3498db;
+	border-radius:20px;
+	color:#FFFFFF; 
+}
+#ptn_student:pressed
+{
+	 background-color:#3498db;
+	border-radius:20px;
+	color:#FFFFFF; 
+}
+#ptn_teacher:pressed
+{
+	 background-color:#3498db;
+	border-radius:20px;
+	color:#FFFFFF; 
+}
+#ptn_setting:pressed
+{
+	 background-color:#3498db;
+	border-radius:20px;
+	color:#FFFFFF; 
+}
+#ptn_signOut:pressed
+{
+	background-color:#3498db;
+	border-radius:20px;
+	color:#FFFFFF; 
+}

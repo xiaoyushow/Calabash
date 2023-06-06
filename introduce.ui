@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Introduce</class>
+ <widget class="QWidget" name="Introduce">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1063</width>
+    <height>380</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="widget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1063</width>
+     <height>380</height>
+    </rect>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>1063</width>
+     <height>380</height>
+    </size>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>1063</width>
+     <height>380</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">#line_1
+{
+	font-family: &quot;Microsoft YaHei&quot;;
+    font-size: 14px;
+    color: #57606f;
+	/*background-color: rgba(0, 216, 214, 150);*/
+
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-right: 7px;
+	padding-bottom: 9px;
+
+	border-style: solid;
+	border-radius: 25px;
+	border-left-width: 2px;
+	border-left-color: #00d2d3;
+}
+
+#line_2
+{
+	font-family: &quot;Microsoft YaHei&quot;;
+    font-size: 14px;
+    color: #57606f;
+	/*background-color: rgba(0, 216, 214, 150);*/
+
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-right: 7px;
+	padding-bottom: 9px;
+
+	border-left-style: solid;
+	border-radius: 25px;
+	border-left-width: 2px;
+	border-left-color: #00d2d3;
+}
+
+#member
+{
+	font-family: &quot;Microsoft YaHei&quot;;
+    font-size: 16px;
+	font-weight: bold;
+    color: #57606f;
+	/*background-color: rgba(0, 216, 214, 150);*/
+
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-right: 7px;
+	padding-bottom: 9px;
+
+	border-style: solid;
+	border-radius: 25px;
+	border-left-width: 2px;
+	border-left-color: #00d2d3;
+}
+
+#teacher
+{
+	font-family: &quot;Microsoft YaHei&quot;;
+    font-size: 16px;
+	font-weight: bold;
+    color: #57606f;
+	/*background-color: rgba(0, 216, 214, 150);*/
+
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-right: 7px;
+	padding-bottom: 9px;
+
+	border-style: solid;
+	border-radius: 25px;
+	border-left-width: 2px;
+	border-left-color: #00d2d3;
+}
+
+#student
+{
+	font-family: &quot;Microsoft YaHei&quot;;
+    font-size: 16px;
+	font-weight: bold;
+    color: #57606f;
+	/*background-color: rgba(0, 216, 214, 150);*/
+
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-right: 7px;
+	padding-bottom: 9px;
+
+	border-style: solid;
+	border-radius: 25px;
+	border-left-width: 2px;
+	border-left-color: #00d2d3;
+}
+
+#skin
+{
+	font-family: &quot;Microsoft YaHei&quot;;
+    font-size: 16px;
+	font-weight: bold;
+    color: #57606f;
+	/*background-color: rgba(0, 216, 214, 150);*/
+
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-right: 7px;
+	padding-bottom: 9px;
+
+	border-style: solid;
+	border-radius: 25px;
+	border-left-width: 2px;
+	border-left-color: #00d2d3;
+}
+
+#logout
+{
+	font-family: &quot;Microsoft YaHei&quot;;
+    font-size: 16px;
+	font-weight: bold;
+    color: #57606f;
+	/*background-color: rgba(0, 216, 214, 150);*/
+
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-right: 7px;
+	padding-bottom: 9px;
+
+	border-style: solid;
+	border-radius: 25px;
+	border-left-width: 2px;
+	border-left-color: #00d2d3;
+}
+
+#self
+{
+	font-family: &quot;Microsoft YaHei&quot;;
+    font-size: 16px;
+	font-weight: bold;
+    color: #57606f;
+	/*background-color: rgba(0, 216, 214, 150);*/
+
+	padding-left: 10px;
+	padding-top: 8px;
+	padding-right: 7px;
+	padding-bottom: 9px;
+
+	border-style: solid;
+	border-radius: 25px;
+	border-left-width: 2px;
+	border-left-color: #00d2d3;
+}</string>
+   </property>
+   <widget class="QLabel" name="member">
+    <property name="geometry">
+     <rect>
+      <x>940</x>
+      <y>220</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;小组成员&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="line_1">
+    <property name="geometry">
+     <rect>
+      <x>860</x>
+      <y>280</y>
+      <width>189</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt; font-weight:700;&quot;&gt;王宇泽 倪晓宇 白云浩&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="line_2">
+    <property name="geometry">
+     <rect>
+      <x>860</x>
+      <y>330</y>
+      <width>189</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt; font-weight:700;&quot;&gt; 段泽旋 王博洋 梁子航&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>21</y>
+      <width>831</width>
+      <height>341</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="0">
+      <widget class="QLabel" name="student">
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;学生模块：实现分页，带有请假和销假功能，界面左右滑动，F5返回分页主界面&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QLabel" name="teacher">
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;教师模块：实现分页、销假、未批改等过滤，F5返回分页主界面&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QLabel" name="self">
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;个人信息模块：显示个人信息，如姓名，班级，年龄等&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="0">
+      <widget class="QLabel" name="skin">
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;皮肤模块：实现纯色换肤和图层换肤&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="0">
+      <widget class="QLabel" name="logout">
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;登出模块：返回登录界面&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,90 @@
+QPushButton
+{
+	font:  16px 'STXihei';
+	text-align: left bottom;
+	border-radius:10px;
+	color: #fff;
+}
+
+QPushButton#ptn_black
+{
+	image: url(:/images/Black.png);
+}
+
+QPushButton#ptn_red
+{
+	image: url(:/images/Red.png);
+}
+
+QPushButton#ptn_pink
+{
+	image: url(:/images/Pink.png);
+}
+
+QPushButton#ptn_blue
+{
+	image: url(:/images/Blue.png);
+}
+
+QPushButton#ptn_green
+{
+	image: url(:/images/Green.png);
+}
+
+QPushButton#ptn_gold
+{
+	image: url(:/images/Gold.png);
+}
+
+QPushButton#ptn_style01
+{
+	background-color: rgb(255,255,255);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+}
+
+QPushButton#ptn_style02
+{
+	background-color: rgb(255,92,138);
+}
+
+QPushButton#ptn_style03
+{
+	background-color: rgb(255,122,158);
+}
+
+QPushButton#ptn_style04
+{
+	background-color: rgb(113,127,249);
+}
+
+QPushButton#ptn_style05
+{
+	background-color: rgb(71,145,235);
+}
+
+QPushButton#ptn_style06
+{
+	background-color: rgb(43,182,105);
+}
+
+QPushButton#ptn_style07
+{
+	background-color: rgb(106,204,25);
+}
+
+QPushButton#ptn_style08
+{
+	background-color: rgb(226,171,18);
+}
+
+QPushButton#ptn_style09
+{
+	background-color: rgb(253,114,109);
+}
+
+QPushButton#ptn_style10
+{
+	background-color: rgb(253,84,78);
+}

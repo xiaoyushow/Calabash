@@ -1,0 +1,9 @@
+D:/Qt/QtProgram/calabash/CMakeFiles/calabash.dir
+D:/Qt/QtProgram/calabash/CMakeFiles/edit_cache.dir
+D:/Qt/QtProgram/calabash/CMakeFiles/rebuild_cache.dir
+D:/Qt/QtProgram/calabash/CMakeFiles/list_install_components.dir
+D:/Qt/QtProgram/calabash/CMakeFiles/install.dir
+D:/Qt/QtProgram/calabash/CMakeFiles/install/local.dir
+D:/Qt/QtProgram/calabash/CMakeFiles/install/strip.dir
+D:/Qt/QtProgram/calabash/CMakeFiles/calabash_autogen_timestamp_deps.dir
+D:/Qt/QtProgram/calabash/CMakeFiles/calabash_autogen.dir

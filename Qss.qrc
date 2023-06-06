@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Qss/PushButton.qss</file>
+        <file>Qss/MaterialDark.qss</file>
+        <file>Qss/PushButton_Especially.qss</file>
+        <file>Qss/MacOS.qss</file>
+        <file>Qss/AMOLED.qss</file>
+        <file>Qss/Aqua.qss</file>
+        <file>Qss/ConsoleStyle.qss</file>
+        <file>Qss/ElegantDark.qss</file>
+        <file>Qss/ManjaroMix.qss</file>
+        <file>Qss/NeonButtons.qss</file>
+        <file>Qss/Ubuntu.qss</file>
+        <file>Qss/skinQss.qss</file>
+        <file>Qss/LICENSE</file>
+        <file>Qss/QScrollAreaQSS.qss</file>
+        <file>Qss/SkinBlack.qss</file>
+        <file>Qss/ownerBlack.qss</file>
+        <file>Qss/studentPage1.qss</file>
+        <file>Qss/studentPage2.qss</file>
+        <file>Qss/teacherBlack.qss</file>
+        <file>Qss/pageBase1.qss</file>
+        <file>Qss/pageBase2.qss</file>
+        <file>Qss/selfBase.qss</file>
+        <file>Qss/teacherBase.qss</file>
+    </qresource>
+</RCC>

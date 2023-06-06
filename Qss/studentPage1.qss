@@ -1,0 +1,20 @@
+#label_dateBegin
+{
+	color:#d1ccc0;
+}
+#label_leaveStyle
+{
+	color:#d1ccc0;
+}
+#label_dateEnd
+{
+	color:#d1ccc0;
+}
+#label_isLeave
+{
+	color:#d1ccc0;
+}
+#label_leaveReason
+{
+	color:#d1ccc0;
+}
